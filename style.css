@@ -1,0 +1,16 @@
+a{
+    text-decoration: underline !important;
+}
+.fa{
+    color: white;
+}
+.parent{
+    background-color: rgb(61, 68, 68);
+    padding: 20px 5px;
+}
+.social-media{
+    background-color: rgb(123, 206, 209);
+    margin: 15px 20px 25px 20px;
+    padding: 40px 10px;
+    text-align: center;
+}
